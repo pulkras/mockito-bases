@@ -37,4 +37,12 @@ public class Car {
     public int getYear() {
         return year;
     }
+
+    public String getOwner() {
+        return owner;
+    }
+
+    public int testInt(int a) {
+        return a+4;
+    }
 }
